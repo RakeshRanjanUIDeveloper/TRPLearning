@@ -1,0 +1,94 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung M17 5G",
+      "color": "black",
+      "price": 15000,
+      "category": "Mobile",
+      "brand": "Samsung",
+      "photo": "https://m.media-amazon.com/images/I/71AsOAOVQmL._AC_UY218_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Redmi 15",
+      "color": "blue",
+      "price": 12000,
+      "category": "Mobile",
+      "brand": "Redmi",
+      "photo": "https://m.media-amazon.com/images/I/812OvmyYPmL._AC_UY218_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "OnePlus Nord 5",
+      "color": "silver",
+      "price": 35000,
+      "category": "Mobile",
+      "brand": "OnePlus",
+      "photo": "https://m.media-amazon.com/images/I/61qKkGW41SL._AC_UY218_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 6s",
+      "color": "gold",
+      "price": 25000,
+      "category": "Mobile",
+      "brand": "Apple",
+      "photo": "https://m.media-amazon.com/images/I/61LxD-XxffS._AC_UY218_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Realme Narzo 60",
+      "color": "green",
+      "price": 14000,
+      "category": "Mobile",
+      "brand": "Realme",
+      "photo": "https://m.media-amazon.com/images/I/61f2OjXW1oL._AC_UY218_.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Vivo Y20",
+      "color": "white",
+      "price": 13000,
+      "category": "Mobile",
+      "brand": "Vivo",
+      "photo": "https://m.media-amazon.com/images/I/71tqCUlv-xL._AC_UY218_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Oppo F21 Pro",
+      "color": "orange",
+      "price": 22000,
+      "category": "Mobile",
+      "brand": "Oppo",
+      "photo": "https://m.media-amazon.com/images/I/71zzXy3hIDL._AC_UY218_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "iQOO Z7 5G",
+      "color": "grey",
+      "price": 19000,
+      "category": "Mobile",
+      "brand": "iQOO",
+      "photo": "https://m.media-amazon.com/images/I/61JS7lF2aqL._AC_UY218_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Motorola Edge 40",
+      "color": "black",
+      "price": 30000,
+      "category": "Mobile",
+      "brand": "Motorola",
+      "photo": "https://m.media-amazon.com/images/I/71sKFpM5qqL._AC_UY218_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Google Pixel 6a",
+      "color": "charcoal",
+      "price": 32000,
+      "category": "Mobile",
+      "brand": "Google",
+      "photo": "https://m.media-amazon.com/images/I/61FZC+vQpOL._AC_UY218_.jpg"
+    }
+  ]
+}
